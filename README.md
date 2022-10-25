@@ -1,5 +1,7 @@
 ## Olá! Sou o Gabriel Carvalho! 👋
 
+---
+
 - 💻 Desenvolvedor Web Front End
 - 💡 Atualmente estou aprendendo e aprofundando nos mais diversos frameworks e tecnologias para o desenvolvimento front end
 - 📫 Contate-me no email: gabrielcipo10@gmail.com
@@ -17,7 +19,7 @@
   <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
-  ##
+---
   
 <div>
   <a href = "mailto:gabrielcipo10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
