@@ -1,8 +1,7 @@
 ## Olá! Sou o Gabriel Carvalho! 👋
 
 - 💻 Desenvolvedor Web Front End
-- 🔭 Atualmente estou aprendendo e aprofundando nos mais diversos frameworks e tecnologias para o desenvolvimento front end
-- 🌱 I’m currently learning ...
+- 💡 Atualmente estou aprendendo e aprofundando nos mais diversos frameworks e tecnologias para o desenvolvimento front end
 - 📫 Contate-me no email: gabrielcipo10@gmail.com
 
 <div align="center">
