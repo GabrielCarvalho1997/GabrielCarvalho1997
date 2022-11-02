@@ -29,7 +29,7 @@
 
 ### Alguns Projetos
   
-https://gabrielcarvalho1997.github.io/Login-Page/
-https://gabrielcarvalho1997.github.io/iMovi/
-https://gabrielcarvalho1997.github.io/Calculadora/
-https://gabrielcarvalho1997.github.io/To-do-List/
+<p>https://gabrielcarvalho1997.github.io/Login-Page/ </p>
+<p>https://gabrielcarvalho1997.github.io/iMovi/ </p>
+<p>https://gabrielcarvalho1997.github.io/Calculadora/ </p>
+<p>https://gabrielcarvalho1997.github.io/To-do-List/ </p>
