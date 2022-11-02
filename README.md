@@ -27,7 +27,7 @@
   <a href="https://wa.me/5532999909315" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
-### Alguns Projetos
+### Alguns Projetos (GitHub Pages)
   
 <p>https://gabrielcarvalho1997.github.io/Login-Page/ </p>
 <p>https://gabrielcarvalho1997.github.io/iMovi/ </p>
