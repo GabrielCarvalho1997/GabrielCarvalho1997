@@ -27,9 +27,16 @@
   <a href="https://wa.me/5532999909315" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
-### Alguns Projetos (GitHub Pages)
+### Alguns Projetos 
   
+- https://pokedexgc.netlify.app/
+- https://berreuflix.netlify.app/
+- https://projgc.netlify.app/
+- https://todolistgc.netlify.app/
+- https://formmultistep.netlify.app/
 - https://gabrielcarvalho1997.github.io/Login-Page/
 - https://gabrielcarvalho1997.github.io/iMovi/
 - https://gabrielcarvalho1997.github.io/Calculadora/
 - https://gabrielcarvalho1997.github.io/To-do-List/
+  
+
