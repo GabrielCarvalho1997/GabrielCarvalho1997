@@ -29,12 +29,12 @@
 
 ### Alguns Projetos 
   
-- https://pokedexgc.netlify.app/
-- https://berreuflix.netlify.app/
-- https://projgc.netlify.app/
-- https://todolistgc.netlify.app/
-- https://formmultistep.netlify.app/
-- https://gabrielcarvalho1997.github.io/Login-Page/
+- https://pokedexgc.netlify.app/  (REACT.Js)
+- https://berreuflix.netlify.app/  (REACT.Js)
+- https://projgc.netlify.app/  (REACT.Js)
+- https://todolistgc.netlify.app/  (REACT.Js)
+- https://formmultistep.netlify.app/  (REACT.Js)
+- https://gabrielcarvalho1997.github.io/Login-Page/ 
 - https://gabrielcarvalho1997.github.io/iMovi/
 - https://gabrielcarvalho1997.github.io/Calculadora/
 - https://gabrielcarvalho1997.github.io/To-do-List/
