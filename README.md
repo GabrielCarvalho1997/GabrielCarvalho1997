@@ -6,11 +6,11 @@
 - 💡 Atualmente estou aprendendo e aprofundando nos mais diversos frameworks e tecnologias para o desenvolvimento front end;
 - 📫 Contate-me no email: gabrielcipo10@gmail.com
 
-<!-- <div align="center">
+<div align="center">
   <a href="https://github.com/gabrielcarvalho1997">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielcarvalho1997&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcarvalho1997&layout=compact&langs_count=7&theme=merko"/>
-</div> -->
+</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
